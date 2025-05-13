@@ -4,8 +4,8 @@ def conexao ():
     return mysql.connector.connect(
         host = "localhost",
         user = "root",
-        password = "nova senhas",
-        database = "CHAMADOS",
+        password = " ",
+        database = " ",
         port=3306
     )
 
